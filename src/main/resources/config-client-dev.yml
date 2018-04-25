@@ -1,5 +1,4 @@
 server:
   port: 54321
-name:
-  TheConfigClientDev
+name: TheConfigClientDev_Changed
 
