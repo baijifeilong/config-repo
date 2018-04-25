@@ -1,5 +1,5 @@
-info:
-  profile: dev
 server:
   port: 54321
+name:
+  TheConfigClientDev
 
