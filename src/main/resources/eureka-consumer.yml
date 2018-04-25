@@ -1,0 +1,4 @@
+server:
+  port: 33333
+
+name: TheEurekaConsumer
